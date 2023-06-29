@@ -1,1 +1,1 @@
-../../../us-east-1/prod/mysql/terragrunt.hcl
+../../us-east-1/prod/mysql/terragrunt.hcl
